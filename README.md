@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=180&section=header&text=capsule%20render&fontSize=80)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=140&section=header&text=&fontSize=60)
 ## Hi there 👋    
 ### Enjoy your day!!
 <br/>
