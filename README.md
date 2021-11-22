@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### Enjoy your day!!
 
 <!--
 **jeongm/jeongm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.notion.so/jeong/MAIN-2584056206dc4f6ead4d6f4b9a336cd5" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="https://www.notion.so/jeong/MAIN-2584056206dc4f6ead4d6f4b9a336cd5" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://github.com/jeongm" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
